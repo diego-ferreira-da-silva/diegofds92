@@ -1,7 +1,7 @@
 ### Olá!! Sou Diego Ferreira 👋
 
 - 🔭 Hoje eu trabalho com Teste de Software
-- 🌱 Estou estudando, automação de teste, Ruby e Python
+- 🌱 Estou estudando, Desenvolvimento mobile em Kotlin
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou novo na área, trabalhava com Bar antes, então se quiser conversar sobre Drinks é só chamar rsrs 😁
 
@@ -16,9 +16,13 @@
   <img align="center" alt="Di-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Di-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Di-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="Di-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Di-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Di-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Di-githeight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
+  <img align="center" alt="Di-kotlinht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >
+  
+
+  
+
+  
   
 </div>
     <br>
