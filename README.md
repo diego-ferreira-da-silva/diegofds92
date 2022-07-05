@@ -1,7 +1,7 @@
 ### Olá!! Sou Diego Ferreira 👋
 
 - 🔭 Hoje eu trabalho com Teste de Software
-- 🌱 Estou estudando, Desenvolvimento mobile em Kotlin
+- 🌱 Estou estudando Desenvolvimento mobile em Kotlin
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou novo na área, trabalhava com Bar antes, então se quiser conversar sobre Drinks é só chamar rsrs 😁
 
